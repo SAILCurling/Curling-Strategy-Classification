@@ -1,0 +1,14 @@
+[GameInfo]
+First=0929_v1514_d1_search_small
+Second=AyumuGAT1
+FirstRemTime=55000
+SecondRemTime=55000
+Random=0.145
+Games=50
+[Wins]
+First=11
+Second=32
+Draws=7
+[Score]
+First=105
+Second=84

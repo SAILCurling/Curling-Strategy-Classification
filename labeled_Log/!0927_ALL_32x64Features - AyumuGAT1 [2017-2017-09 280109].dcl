@@ -1,0 +1,14 @@
+[GameInfo]
+First=0927_ALL_32x64Features
+Second=AyumuGAT1
+FirstRemTime=55000
+SecondRemTime=55000
+Random=0.145
+Games=100
+[Wins]
+First=14
+Second=75
+Draws=11
+[Score]
+First=292
+Second=148

@@ -1,0 +1,14 @@
+[GameInfo]
+First=0928_e2e_switch
+Second=AyumuGAT1
+FirstRemTime=55000
+SecondRemTime=55000
+Random=0.145
+Games=100
+[Wins]
+First=12
+Second=71
+Draws=17
+[Score]
+First=277
+Second=174
